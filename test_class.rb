@@ -1,9 +1,5 @@
 require "./validation"
 
-# class Validate
-#   include Validation
-# end
-
 class TestClass
   include Validation
   @name, @age, @email = nil
