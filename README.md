@@ -12,6 +12,6 @@ Run code:
 
 Validation module is in validation.rb
 
-Three test classes with some custom validation in test_class.rb
+Test classe with some custom validation in test_class.rb
 
 Test Validation all cases is in test_all.rb
